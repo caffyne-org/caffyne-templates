@@ -1,7 +1,7 @@
 {
   "id": "gtk",
   "name": "GTK",
-  "notes": "Colors for GTK3 and GTK4 applications\nShould apply automatically\n\nTo apply manually for GTK3:\n • Install <tt><i>adw-gtk3</i></tt>\n theme\n • Apply it using <tt><i>nwg-look</i></tt>\n or <tt><i>gsettings</i></tt>\n",
+  "notes": "Colors for GTK3 and GTK4 applications\nShould apply automatically\n\nTo apply manually for GTK3:\n • Install <tt><i>adw-gtk3</i></tt>\n theme\n • Select adw-gtk3 as the preferred gtk theme using <tt><i>nwg-look</i></tt>\n or <tt><i>gsettings</i></tt>\n",
   "templates": [
     {
       "id": "gtk3",

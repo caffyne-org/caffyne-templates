@@ -5,5 +5,5 @@
   "input_path": "template.conf",
   "output_path": "~/.config/kitty/themes/Matugen.conf",
   "post_hook": "kitty +kitten themes --reload-in=all Matugen",
-  "notes": "Colors for the Kitty terminal emulator\n\nTo apply:\n • Run <tt><i>kitten themes</i></tt>\n • Select <tt><i>Matugen</i></tt> under the User section"
+  "notes": "Colors for the Kitty terminal emulator\nManual intervention is required\n\nTo apply:\n • Run <tt><i>kitten themes</i></tt>\n • Select <tt><i>Matugen</i></tt> under the User section"
 }

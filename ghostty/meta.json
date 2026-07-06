@@ -1,0 +1,9 @@
+{
+  "id": "ghostty",
+  "name": "Ghostty",
+  "description": "",
+  "input_path": "template.conf",
+  "output_path": "~/.config/ghostty/themes/Matugen",
+  "post_hook": "pkill -SIGUSR2 ghostty",
+  "notes": "Colors for the Ghostty terminal emulator\nShould apply automatically\n\nTo apply manually:\n • Edit/create <tt><i>.config/ghostty/config</i></tt>\n • Add the line <tt><i>theme = 'Matugen'</i></tt>"
+}

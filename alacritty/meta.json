@@ -1,7 +1,7 @@
 {
   "id": "alacritty",
   "name": "Alacritty Terminal",
-  "notes": "Colors for the Alacritty terminal emulator\nShould apply automatically",
+  "notes": "Colors for the Alacritty terminal emulator\nShould apply automatically\n\nTo apply manually:\n • Edit/create <tt><i>.config/alacritty/alacritty.toml</i></tt>\n • Add the section:\n   <tt><i>[general]\n   import = ['colors.toml']</i></tt>",
   "input_path": "template.toml",
   "output_path": "~/.config/alacritty/colors.toml"
 }

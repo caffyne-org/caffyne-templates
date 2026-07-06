@@ -1,0 +1,8 @@
+{
+  "id": "steam",
+  "name": "Steam (Material)",
+  "description": "",
+  "input_path": "template.css",
+  "output_path": "~/.steam/steam/steamui/skins/Material-Theme/css/main/colors/matugen.css",
+  "notes": "Colors for the Steam\nManual intervention is required\nRequires <tt><i>millenium</i></tt> for Steam\n\nTo apply:\n • Install the material theme off <tt><i>steambrew.app</i></tt>\n • Install the material theme through the millenium UI\n • Configure the theme and choose <tt><i>matugen</i></tt> as the source color"
+}
