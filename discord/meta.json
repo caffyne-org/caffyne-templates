@@ -1,0 +1,9 @@
+{
+  "id": "discord",
+  "name": "Discord",
+  "description": "",
+  "input_path": "midnight-discord.css",
+  "output_path": "~/.cache/caffyne-shell/matugen/midnight-discord.css",
+  "post_hook_script": "post_hook.sh",
+  "notes": "Colors for the Discord\nTransparency is supported if enabled in your client's settings\nSupports:\n• Vesktop\n• Equibop\n• Discord with:\n • Vencord\n • Equicord\n\nTo apply:\n • Open your client's settings\n • Navigate to the themes section\n • Enable the <tt><i>midnight</i></tt> theme."
+}
